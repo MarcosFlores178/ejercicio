@@ -1,0 +1,10 @@
+.lista-contactos {
+  list-style: none;
+  padding: 0;
+  color: blueviolet;
+}
+
+.lista-contactos li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
