@@ -15,4 +15,4 @@ const ListaContactos = ({ lista }) => {
 }
 
 export default ListaContactos;
-// Este componente recibe una lista de contactos como props y los muestra en una lista desordenada.
+
