@@ -32,6 +32,8 @@ function App() {
       <button onClick={agregarNuevoContacto}>
         Agregar contacto
       </button>
+      {/* Este es el componente que recibe la lista de contactos y los muestra (hay que combinarlo con el componente del grupo B): */}
+      <h2>Contactos</h2>
       <ListaContactos lista={lista} />
     </>
   )
